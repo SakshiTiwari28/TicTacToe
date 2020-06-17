@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angularproject-cf340": {
+      "hosting": {
+        "tictactoe": [
+          "angularproject-cf340"
+        ]
+      }
+    }
+  }
+}
